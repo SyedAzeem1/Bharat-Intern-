@@ -1,2 +1,2 @@
 # Bharat-Intern-
-Weather app and Netflix homepage..
+Weather app using api.
